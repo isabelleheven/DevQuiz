@@ -264,7 +264,7 @@ function result (){
 
 
     let refazer = document.createElement("button");
-    refazer.textContent = "Começar de novo";
+    refazer.textContent = "Refazer";
     refazer.addEventListener("click", btrefazer);
     principal.appendChild(refazer);
 } 
